@@ -1,1 +1,0 @@
-Add image folders here. Training images go in train/<class_name>/. Each class folder name becomes a prediction label. Keep independent evaluation images in test/<class_name>/. No medical image dataset is included in this ZIP.
